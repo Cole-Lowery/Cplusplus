@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Classes\\C\u002B\u002B\\Cplusplus\\MemoryReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ECE767-350E-414D-B15D-5F432A60823D}|MemoryReview.vcxproj|C:\\Classes\\C\u002B\u002B\\Cplusplus\\MemoryReview\\MemoryReview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ECE767-350E-414D-B15D-5F432A60823D}|MemoryReview.vcxproj|solutionrelative:MemoryReview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryReview.cpp",
+              "DocumentMoniker": "C:\\Classes\\C\u002B\u002B\\Cplusplus\\MemoryReview\\MemoryReview.cpp",
+              "RelativeDocumentMoniker": "MemoryReview.cpp",
+              "ToolTip": "C:\\Classes\\C\u002B\u002B\\Cplusplus\\MemoryReview\\MemoryReview.cpp",
+              "RelativeToolTip": "MemoryReview.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T20:12:21.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
