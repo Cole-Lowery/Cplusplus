@@ -11,17 +11,14 @@ public:
     void DisplayAll();
     void Display(const std::string& name);
     void Display(Animal::eType type);
-
 private:
     std::vector<Animal*> objects;
 };
-
 inline Database::~Database() {
     for (Animal* obj : objects) {
         delete obj;
     }
 }
-
 inline void Database::Create(Animal::eType type) {
     Animal* obj = nullptr;
     switch (type) {
@@ -37,14 +34,12 @@ inline void Database::Create(Animal::eType type) {
         objects.push_back(obj);
     }
 }
-
 inline void Database::DisplayAll() {
     for (Animal* obj : objects) {
         obj->Write(std::cout);
         std::cout << "-------------------\n";
     }
 }
-
 inline void Database::Display(const std::string& name) {
     for (Animal* obj : objects) {
         if (obj->GetName() == name) {
@@ -53,7 +48,6 @@ inline void Database::Display(const std::string& name) {
         }
     }
 }
-
 inline void Database::Display(Animal::eType type) {
     for (Animal* obj : objects) {
         if (obj->GetType() == type) {
