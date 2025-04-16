@@ -1,6 +1,17 @@
 #include <iostream>
 #include "Database.h"
 
+/**
+ * @brief Entry point for the program.
+ *
+ * This method acts as the main user interface loop for managing a database of animals.
+ * It provides a menu-driven interface for users to perform operations such as creating
+ * new animals, displaying all animals, searching for animals by name, and displaying
+ * animals filtered by type. The program terminates when the user chooses the quit option.
+ *
+ * @return Integer status code indicating the success or failure of the program. Returns 0
+ *         to indicate successful execution.
+ */
 int main() {
     Database database;
     bool quit = false;
