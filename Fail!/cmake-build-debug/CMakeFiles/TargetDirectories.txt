@@ -1,0 +1,3 @@
+C:/Classes/C++/Cplusplus/Fail!/cmake-build-debug/CMakeFiles/Fail_.dir
+C:/Classes/C++/Cplusplus/Fail!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Classes/C++/Cplusplus/Fail!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
